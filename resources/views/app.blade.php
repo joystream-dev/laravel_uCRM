@@ -16,7 +16,7 @@
         @inertiaHead
     </head>
     <body class="font-sans antialiased">
-        <div class="p-10">
+        <div class="">
           @inertia
         </div>
     </body>
